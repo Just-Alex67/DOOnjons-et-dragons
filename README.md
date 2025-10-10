@@ -26,7 +26,7 @@ Au fil du jeu, le joueur peut :
 ---
 
 ## 🖼️ Aperçu du jeu
-> ![Aperçu du jeu](./assets/DOOnjons_et_dragons.png)
+> ![Aperçu du jeu](projet%20Doonjons%20et%20dragons/projet-doojon-et-dragons-master/assets/DOOnjons_et_dragons.png)
 
 ---
 
