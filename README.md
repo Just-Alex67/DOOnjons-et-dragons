@@ -33,7 +33,7 @@ Au fil du jeu, le joueur peut :
 ## 📂 Informations supplémentaires
 
 Pour plus de détails sur le projet, consultez le fichier :  
-[`projet-doojon-et-dragons-master/README.md`](projet_doonjons_et_dragons//README.md)
+[`projet-doojon-et-dragons-master/README.md`](projet Doonjons et dragons/projet-doojon-et-dragons-master/README.md)
 
 ---
 
