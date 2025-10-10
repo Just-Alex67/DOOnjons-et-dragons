@@ -25,19 +25,19 @@ Au fil du jeu, le joueur peut :
 
 ---
 
-## 🖼️ Aperçu du jeu
+## Aperçu du jeu
 > ![Aperçu du jeu](projet%20Doonjons%20et%20dragons/projet-doojon-et-dragons-master/assets/DOOnjons_et_dragons.png)
 
 ---
 
-## 📂 Informations supplémentaires
+## Informations supplémentaires
 
 Pour plus de détails sur le projet, consultez le fichier :  
 [`projet-doojon-et-dragons-master/README.md`](projet%20Doonjons%20et%20dragons/projet-doojon-et-dragons-master/README.md)
 
 ---
 
-## 👨‍💻 Auteurs
+## Auteurs
 
 Projet réalisé dans le cadre d’un **projet universitaire** par :  
 - moi-même
@@ -45,7 +45,7 @@ Projet réalisé dans le cadre d’un **projet universitaire** par :
 
 ---
 
-## 🧠 Concepts clés
+## Concepts clés
 
 - Programmation orientée objet (héritage, polymorphisme, encapsulation)  
 - Gestion d’inventaire et de statistiques  
