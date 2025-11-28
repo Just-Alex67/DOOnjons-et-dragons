@@ -29,7 +29,7 @@ Pour plus de détails sur le projet, consultez le fichier :
 
 Projet réalisé dans le cadre d’un **projet universitaire** par :  
 - moi-même
-- un autre développeur
+- [un collègue développeur : Arthur Alexandre ](https://github.com/ArthurALEXANDRE-29) 
 
 ---
 
